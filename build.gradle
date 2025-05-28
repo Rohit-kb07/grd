@@ -36,9 +36,5 @@ jar {
        )
     }
 }
-task display{
-doLast{
-println 'hello wrd'
-}
-}
+
 
